@@ -1,10 +1,7 @@
-## Hi there 👋
+## Hello there [![hellothere](https://cdn3.emoji.gg/emojis/2860_hellothere.gif)](https://emoji.gg/emoji/2860_hellothere)
 
-- 👨‍💻 I'm a **CS Student at INSA Rennes**  
+- 👨‍💻 I'm a **CS Student**  
 - 🌱 I'm passionate about **software development** and love to innovate 🚀  
-- 📚 A **book lover** who enjoys everything from **sci-fi** to **personal development** 📖
-
-I’m always up for new challenges and collaborations! 🚀
 
 ---
 
