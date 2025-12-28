@@ -1,4 +1,4 @@
 # Hello there
 
-- 👨‍💻 4rd-year CS Student at INSA Rennes
-- **C/C++** enjoyer
+CS engineering student @ INSA Rennes  
+C/C++ · Systems · Security
