@@ -25,8 +25,6 @@ CS & Cybersecurity Student @ INSA Rennes
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evann-404&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evann-404&theme=tokyonight&layout=compact&hide_border=true)
-
 ---
 
 ## 📫 Contact
