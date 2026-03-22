@@ -21,12 +21,6 @@ CS & Cybersecurity Student @ INSA Rennes
 
 ---
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evann-404&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true)
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evann-perennou-80034b257)
