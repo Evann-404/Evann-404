@@ -3,7 +3,6 @@
 CS & Cybersecurity Student @ INSA Rennes
 
 - I think on paper before touching any code (old school, paper never crashes).
-- I like understanding how things work under the hood.
 - I push things to their limits just to see what breaks (future QA engineer spotted).
 - **Looking for an internship in North America — spring 2027**
 
