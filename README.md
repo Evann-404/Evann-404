@@ -4,7 +4,7 @@ CS & Cybersecurity Student @ INSA Rennes
 
 - I think on paper before touching any code (old school, paper never crashes).
 - I push things to their limits just to see what breaks (future QA engineer spotted).
-- **Looking for an internship in North America — spring 2027**
+- **Seeking a 6-month end-of-studies internship in North America / Europe / Australia, starting April 2027**
 
 ---
 
